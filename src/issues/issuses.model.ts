@@ -1,0 +1,4 @@
+interface IssuesModel{
+    id:number,
+    
+}
